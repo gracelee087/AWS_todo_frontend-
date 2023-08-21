@@ -1,0 +1,3 @@
+/api/* http://todo-demo.eu-north-1.elasticbeanstalk.com/api/:splat 200
+
+# 위 주소로 오는 모든 주소는 내 elaticbeanstalk에서 받은 주소로 이동합니다. (https proxy 관련)
